@@ -1,5 +1,5 @@
 {
-  "name": "cascade.lk",
+  "name": "next-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,5 +19,8 @@
     "react-dom": "18.2.0",
     "sass": "^1.60.0",
     "typescript": "5.0.2"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ItsYasiru/nextjs-template.git",
+  "license": "MIT"
 }
